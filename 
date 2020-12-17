@@ -1,0 +1,54 @@
+[33mcommit 13ff13fbd4c897c95bb50c629df1fef1d8294051[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: 7f4cc9e c41967a
+Author: Multizavr <gilmanov.aleksej@yandex.ru>
+Date:   Thu Dec 17 19:14:34 2020 +0500
+
+    Merge branch 'testbranch00'
+
+[33mcommit 7f4cc9e8e9945bf238f7565338d6f4bdcdbe8b69[m
+Author: Multizavr <gilmanov.aleksej@yandex.ru>
+Date:   Thu Dec 17 19:11:46 2020 +0500
+
+    m 9.5.3
+
+[33mcommit be4eee60d288517c2648956dd24e4d71d37133c8[m
+Author: Multizavr <gilmanov.aleksej@yandex.ru>
+Date:   Thu Dec 17 19:10:16 2020 +0500
+
+    modul 9.5.3
+
+[33mcommit c41967ac17b32cd98517938414bbd769f910d40a[m[33m ([m[1;32mtestbranch00[m[33m)[m
+Author: Multizavr <gilmanov.aleksej@yandex.ru>
+Date:   Thu Dec 17 19:04:57 2020 +0500
+
+    modul 9.5.1
+
+[33mcommit 849d44618872d5a4732a17ce6b88e8fde03250ef[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Multizavr <gilmanov.aleksej@yandex.ru>
+Date:   Thu Dec 17 18:56:27 2020 +0500
+
+    modul 9.5
+
+[33mcommit bae23a1446581ddc3af14b530b9106a6478ac225[m
+Author: Multizavr <gilmanov.aleksej@yandex.ru>
+Date:   Thu Dec 17 18:23:11 2020 +0500
+
+    deleted
+
+[33mcommit 7c3ff97c00d65c92cb455d72b294d0f52e77e780[m
+Author: Multizavr <gilmanov.aleksej@yandex.ru>
+Date:   Thu Dec 17 18:15:51 2020 +0500
+
+    a new-new file
+
+[33mcommit c899c51e4fefd830fc1902b2127aa1fed667344b[m
+Author: Multizavr <gilmanov.aleksej@yandex.ru>
+Date:   Thu Dec 17 18:11:53 2020 +0500
+
+    a new file
+
+[33mcommit 7ed4bb9f955b7d0ba37b36131be26252b73927c6[m
+Author: Multizavr <76068605+Multizavr@users.noreply.github.com>
+Date:   Thu Dec 17 18:02:05 2020 +0500
+
+    Initial commit
